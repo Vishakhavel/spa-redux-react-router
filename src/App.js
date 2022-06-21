@@ -4,11 +4,15 @@ import MainHeader from './components/MainHeader'
 import Decrement from './pages/Decrement'
 import Half from './pages/Half'
 import Double from './pages/Double'
+import Home from './pages/Home'
 import { Fragment } from 'react-is'
 const App = () => {
   return (
     <Fragment>
       <MainHeader />
+      {/* <Route path='/home'>
+        <Home />
+      </Route> */}
       <Route path='/increment'>
         <Increment />
       </Route>
