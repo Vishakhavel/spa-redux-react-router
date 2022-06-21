@@ -16,7 +16,7 @@ const Double = () => {
           <button onClick={doubleStateValue}>x2</button>
         </div>
       </div>
-      <h2>Double</h2>
+      <h2>click button to DOUBLE share state</h2>
     </div>
   )
 }

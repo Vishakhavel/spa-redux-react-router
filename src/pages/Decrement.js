@@ -16,7 +16,7 @@ const Decrement = () => {
         </div>
       </div>
 
-      <h2>Decrement</h2>
+      <h2>click to DECREMENT shared state</h2>
     </div>
   )
 }

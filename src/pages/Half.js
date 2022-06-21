@@ -15,7 +15,7 @@ const Half = () => {
           <button onClick={halfStateValue}>/2</button>
         </div>
       </div>
-      <h2>Half</h2>
+      <h2>click button to HALVE the shared state</h2>
     </div>
   )
 }
