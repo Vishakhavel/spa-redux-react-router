@@ -16,7 +16,7 @@ const Increment = () => {
           <button onClick={incrementStateValue}>+1</button>
         </div>
       </div>
-      <h2>click button to INCREMENT shared state</h2>
+      <h2>click button to INCREMENT the shared state</h2>
     </div>
   )
 }
