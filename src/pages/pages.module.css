@@ -1,0 +1,38 @@
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  font-weight: 800;
+}
+
+button {
+  color: black;
+  background-color: aquamarine;
+  width: 80px;
+  height: 80px;
+  border-color: black;
+}
+
+.buttonClass {
+  margin: auto;
+}
+
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 100px;
+  height: 100px;
+  /* outline: dashed 1px black; */
+  /* background-color: black; */
+  margin: auto;
+}
+
+.child {
+  display: block;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
