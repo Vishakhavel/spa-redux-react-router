@@ -18,6 +18,7 @@ button {
 button:hover {
   background-color: black;
   color: aquamarine;
+  border-color: aquamarine;
 }
 
 .buttonClass {

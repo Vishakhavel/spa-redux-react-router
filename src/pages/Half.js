@@ -16,6 +16,7 @@ const Half = () => {
         </div>
       </div>
       <h2>click button to HALVE the shared state</h2>
+      {/* adding a dummy comment! */}
     </div>
   )
 }
